@@ -5,5 +5,5 @@
 > Para rodar este projeto em sua maquina
 >
 > ```
->instal xxxxxx
+>node app.js
 > ```
